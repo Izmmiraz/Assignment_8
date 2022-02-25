@@ -1,0 +1,337 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+
+}
+.sec-home{
+	width: 100%;
+	float: left;
+	background: url(../img/bg.jpg);
+}
+.homepage-logo{
+
+}
+.homepage-logo img{
+	padding: 20px;
+	height: 90px;
+
+}
+.home-banner{
+
+}
+.home-banner ul{
+	text-decoration: none;
+
+
+}
+.home-banner ul li{
+	display: inline-block;
+	padding: 30px;
+	color: white;
+
+}
+.number{
+	color: white;
+	margin-top: 30px;
+	background-color: #353534;
+
+}
+.number h2{
+	padding: 10px;
+    margin-left: 20px;
+
+}
+.home-text{
+	color: white;
+
+}
+.home-text p{
+	margin-top: 20px;
+}
+.home-btn{
+	margin-bottom: 70px;
+
+}
+.home-btn a{
+
+}
+.home-btn a button{
+	padding: 5px 30px;
+    color: white;
+    background: #747471;
+    border-color: white;
+    margin-top: 135px;
+    margin-bottom: 200px;
+}
+.welcome-home{
+	width: 100%;
+	float: left;
+	background-color: #f6f6f6;
+
+}
+.welcome-text{
+	margin: 30px;
+
+}
+.welcome-text h1{
+	color: #333333;
+	margin-top: 70px;
+}
+.welcome-text p{
+	color: #a5a5a5;
+	margin-top: 100px;
+
+}
+.banner-car{
+
+}
+.welcome-car{
+
+}
+.welcome-car img{
+position: absolute;
+    top: 75px;
+    width: 143%;
+    height: 100%;
+}
+.home-info{
+	width: 100%;
+	float: left;
+	background-color: #28282e;
+}
+.info-text{
+
+}
+.info-text h1{
+	color: white;
+    margin-top: 50px;
+
+}
+.info-text p{
+	color: white;
+    margin-top: 65px;
+
+}
+.info-text a button{
+	background-color: #28282e;
+    color: white;
+    padding: 5px 10px;
+    border-color: white;
+    margin-top: 45px;
+    margin-bottom: 85px;
+
+}
+.info-car{
+
+}
+.info-car img{
+	width: 165%;
+    margin-top: 100px;
+}
+
+.first-sec{
+	width: 100%;
+	float: left;
+	box-shadow: 0 15px #e4e4e4;
+}
+.logo{
+
+}
+.logo img{
+	padding: 20px;
+	height: 90px;
+
+}
+
+.banner{
+
+}
+.banner ul{
+	text-decoration: none;
+
+
+}
+.banner ul li{
+	display: inline-block;
+	padding: 30px;
+	color: #88b4c3;
+
+}
+
+.second-sec{
+	width: 100%;
+	float: left;
+
+}
+.text{
+	padding: 20px;
+
+}
+.text h1{
+    padding: 10px;
+    padding-left: 20px;
+
+}
+.text p{
+	color: #6b6b6b;
+	padding: 20px;
+
+}
+.car-text{
+	padding: 20px;
+
+}
+.car-text img{
+
+}
+.car-text p{
+	margin-top: 65px;
+	color: #6b6b6b;
+
+}
+.footer{
+	width: 100%;
+	float: left;
+	background-color:#ef4035 ;
+
+}
+.last-text{
+    padding: 30px;
+
+}
+.last-text h2{
+	color: white;
+    padding-top: 20px;
+    font-size: 25px;
+    margin-left: 300px;
+}
+  
+}
+header{
+	background-color: white;
+	width: 100%;
+	float: left;
+	box-shadow: 0 15px #e4e4e4;
+    margin-bottom: 15px;
+}
+.banner-contact{
+	background-color: #ee4a3f;
+}
+.contact-car{
+
+}
+.contact-car h1{
+	padding: 20px;
+    color: white;
+
+}
+.contact-car img{
+	width: 100%;
+	margin-top: 60px;
+
+}
+.contact-car p{
+	padding: 20px;
+	color: white;
+
+}
+.triangle{
+
+}
+.triangle img{
+	width: 60%;
+    padding: 25px;
+    margin-left: 60px;
+}
+.form-group{
+	background-color:  #ee4a3f;
+	width: 100%;
+	float: left;
+}
+.group-1{
+	margin: 20px;
+
+}
+.group-2{
+	margin: 20px;
+
+}
+.name{
+	color: white;
+    font-size: 15px;
+    padding: 15px;
+
+}
+.txt{
+	padding: 5px;
+    width: 60%;
+    background-color: #ff6258;
+    border-color: #ff6258;
+    border-radius: 10px;
+
+}
+.e-add{
+	color: white;
+    font-size: 15px;
+
+}
+.email-add{
+	padding: 5px;
+    width: 60%;
+    background-color: #ff6258;
+    border-color: #ff6258;
+    border-radius: 10px;
+
+}
+.sub{
+	color: white;
+    font-size: 15px;
+    padding: 15px;
+
+}
+.sub-box{
+	padding: 5px;
+    width: 60%;
+    background-color: #ff6258;
+    border-color: #ff6258;
+    border-radius: 10px;
+    margin-left: 22px;
+
+}
+.msg{
+	color: white;
+    font-size: 15px;
+    padding: 15px;
+
+}
+.msg-box{
+	padding: 5px;
+    width: 60%;
+    background-color: #ff6258;
+    border-color: #ff6258;
+    border-radius: 10px;
+    margin-left: 18px;
+
+
+}
+.btn{
+	margin-top: 50px;
+
+}
+.sub-btn{
+	color: white;
+    font-size: 30px;
+}
+@media (min-width: 768px){
+.welcome-car img{
+position: absolute;
+    top: 75px;
+    width: 100%;
+    height: 100%;
+}
+}
+
+
+
